@@ -60,3 +60,7 @@ The dashboard includes:
 - First Response SLA Performance
 - Tickets by Country
 - Interactive Month Filtering
+
+## Dashboard Preview
+
+![Technical Support SLA Dashboard](dashboard-overview.png)
