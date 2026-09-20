@@ -118,10 +118,6 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-Dashboard Preview
-
-Dashboard Preview
-
 ### Page 1 — SLA Performance Overview
 ![SLA Performance Dashboard](dashboard-page-1.png.png)
 
