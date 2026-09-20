@@ -120,8 +120,10 @@ The dashboard includes:
 
 Dashboard Preview
 
+Dashboard Preview
+
 ### Page 1 — SLA Performance Overview
-![SLA Performance Dashboard](dashboard-page-1.png)
+![SLA Performance Dashboard](dashboard-page-1.png.png)
 
 ### Page 2 — Support Performance Analysis
-![Support Performance Dashboard](dashboard-page-2.png)
+![Support Performance Dashboard](dashboard-page-2.png.png)
