@@ -97,10 +97,6 @@ The dashboard includes:
 - Tickets by Country
 - Interactive Month Filtering
 
-## Dashboard Preview
-
-![Technical Support SLA Dashboard](dashboard-overview.png)
-
 ## Tools & Technologies
 
 - Power BI Desktop
@@ -122,4 +118,10 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Technical Support SLA Dashboard](dashboard-overview.png)
+Dashboard Preview
+
+### Page 1 — SLA Performance Overview
+![SLA Performance Dashboard](dashboard-page-1.png)
+
+### Page 2 — Support Performance Analysis
+![Support Performance Dashboard](dashboard-page-2.png)
